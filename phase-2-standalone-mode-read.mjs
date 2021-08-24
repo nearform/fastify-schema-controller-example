@@ -1,9 +1,9 @@
 
 import ajvCompiler from '@fastify/ajv-compiler/standalone.js'
 import sanitize from 'sanitize-filename'
-import { createRequire } from 'module'
 import path from 'path'
 import fastify from 'fastify'
+import { createRequire } from 'module'
 
 // The `restoreFunction` option is synchronous, so we need the CommonJS require() function.
 const require = createRequire(import.meta.url)
