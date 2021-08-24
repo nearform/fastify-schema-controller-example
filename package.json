@@ -1,0 +1,23 @@
+{
+  "name": "fastify-schema-controller-example",
+  "version": "1.0.0",
+  "description": "Example source code for ajv@8 within fastify@3 blog post",
+  "main": "customize-schema-compiler.mjs",
+  "type": "module",
+  "scripts": {
+  },
+  "author": "NearForm Ltd",
+  "contributors": [
+    "Manuel Spigolon <manuel.spigolon@nearform.com> (https://github.com/Eomm)"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=12.2.0"
+  },
+  "dependencies": {
+    "@fastify/ajv-compiler": "^2.1.0",
+    "ajv": "^8.6.2",
+    "fastify": "^3.20.2",
+    "sanitize-filename": "^1.6.3"
+  }
+}
