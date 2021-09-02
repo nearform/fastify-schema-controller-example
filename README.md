@@ -1,7 +1,7 @@
 # fastify-schema-controller-example
 Example source code for ajv@8 within fastify@3 blog post.
 
-Read the blog post for more details: [https://www.nearform.com/blog/TODO](https://www.nearform.com/blog/TODO)
+Read the blog post for more details: [https://www.nearform.com/blog/upgrading-fastifys-input-validation-to-ajv-version-8/](https://www.nearform.com/blog/upgrading-fastifys-input-validation-to-ajv-version-8/)
 
 ## Requirements
 
